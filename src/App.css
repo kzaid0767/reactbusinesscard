@@ -2,7 +2,8 @@
 .App{
     font-family: 'Inter', sans-serif;
     width: 19.8125rem;
-    margin: 0 auto;
+    margin: 0 auto 2rem;
+    margin-top: 3rem;
     background-color: #F5F5F5;
     border-radius: 10px;
 }

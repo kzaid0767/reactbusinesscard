@@ -9,9 +9,10 @@ function Info() {
             <h1 className='name'>Kassim Zaid</h1>
             <p className='mytitle'>Frontend Developer</p>
             <a className='websitelink' href={'http://www.kassimthefrontendev.com'} rel="noreferrer" 
-                target={'_blank'}>kassimthefrontendev.com</a>
+                target={'_blank'}>kassim.website</a>
             <div className='buttons-holder'>
-                <button className='allbuttons buttonemail'><i class="fa fa-envelope" aria-hidden="true"></i>  Email</button>
+                <button mail className='allbuttons buttonemail'
+                 onClick={() => window.location = 'mailto:kzaido0767@gmail.com'}><i class="fa fa-envelope" aria-hidden="true"></i>  Email</button>
             </div>
         </div>
     )

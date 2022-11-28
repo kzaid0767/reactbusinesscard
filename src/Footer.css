@@ -1,5 +1,6 @@
 
 .footer-container{
+    margin-top: 2.5rem;
     background: #D5D4D8;
     height: 4rem;
     border-radius: 0px 0px 10px 10px;
@@ -12,4 +13,9 @@
     color: #918E9B;
     font-size: 1.5625rem;
     margin: 0.75rem;
+}
+
+.footer-container .fa:hover{
+    cursor: pointer;
+    color: #297FE5;
 }

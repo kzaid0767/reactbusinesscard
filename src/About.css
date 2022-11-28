@@ -11,7 +11,7 @@
     line-height: 150%;
     /* or 24px */
     color: #2B283A;
-
+    margin-bottom: 0;
 }
 
 .abouttext{
@@ -21,4 +21,5 @@
     line-height: 150%;
     /* or 15px */
     color: #4A4E74;
+    margin-top: 0;
 }
