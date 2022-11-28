@@ -11,8 +11,7 @@ function Info() {
             <a className='websitelink' href={'http://www.kassimthefrontendev.com'} rel="noreferrer" 
                 target={'_blank'}>kassimthefrontendev.com</a>
             <div className='buttons-holder'>
-                <button className='allbuttons buttonemail'><i class="fa fa-envelope" aria-hidden="true">  Email</i></button>
-                <button className='allbuttons buttonwebsite'><i class="fa fa-globe" aria-hidden="true">  Website</i></button>
+                <button className='allbuttons buttonemail'><i class="fa fa-envelope" aria-hidden="true"></i>  Email</button>
             </div>
         </div>
     )

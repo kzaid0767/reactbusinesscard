@@ -1,3 +1,24 @@
 .about{
-    color: #FFFFFF
+    width: 17.125rem;
+    margin: 0 auto;
+}
+
+.aboutheader{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 150%;
+    /* or 24px */
+    color: #2B283A;
+
+}
+
+.abouttext{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.64rem;
+    line-height: 150%;
+    /* or 15px */
+    color: #4A4E74;
 }

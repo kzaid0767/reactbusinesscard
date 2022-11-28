@@ -1,0 +1,15 @@
+
+.footer-container{
+    background: #D5D4D8;
+    height: 4rem;
+    border-radius: 0px 0px 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-container .fa{
+    color: #918E9B;
+    font-size: 1.5625rem;
+    margin: 0.75rem;
+}
